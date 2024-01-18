@@ -1,14 +1,30 @@
+import { AppBar, Toolbar, Typography, Button } from '@mui/material';
+
 const NavigationBar = () => {
-    return (
-        <div>
-            <h1>Barra de Navegacion</h1>
-            <h4>Edward VE</h4>
-            <h4>About me</h4>
-            <h4>Portfolio</h4>
-            <h4>Educacion</h4>
-            <h4>Skills</h4>
-            <h4>Contacto</h4>
-        </div>
-    )
-}
+  return (
+    <AppBar position="static" color="primary">
+      <Toolbar>
+        <Button color="inherit">
+          <Typography variant="subtitle1">Edward VE</Typography>
+        </Button>
+        <Button color="inherit">
+          <Typography variant="subtitle1">About me</Typography>
+        </Button>
+        <Button color="inherit">
+          <Typography variant="subtitle1">Portfolio</Typography>
+        </Button>
+        <Button color="inherit">
+          <Typography variant="subtitle1">Educacion</Typography>
+        </Button>
+        <Button color="inherit">
+          <Typography variant="subtitle1">Skills</Typography>
+        </Button>
+        <Button color="inherit">
+          <Typography variant="subtitle1">Contacto</Typography>
+        </Button>
+      </Toolbar>
+    </AppBar>
+  );
+};
+
 export default NavigationBar;
