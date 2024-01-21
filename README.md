@@ -2,18 +2,30 @@
 
 **También conocido como Edward VE en GitHub**
 
-### ¿Quién soy? 🚀
+## ¿Quién soy? 🚀
 
 Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estudiante de **Ingeniería Mecatrónica** en la **Universidad Nacional de Colombia**.
 
+## ¿Qué hago? 
 
-### ¿Cuál es tu profesión?💻
+Actualmente me dedico a dearrollar proectos que me permitan acvanzar en  mi formacion continua como programador. Me fascina la posibilidad de materializar mis ideas a traves de codigo
 
-Actualmente, estoy enfocado como desarrollador Full Stack, destacando en tecnologías como JavaScript, React, Node.js, y SQL.
+## ¿A dónde me dirijo? 
 
-### ¿Cuáles son mis servicios? 🌐
+Mi camino profesional se orienta hacia el crecimiento continuo como desarrollador, buscando oportunidades desafiantes que me permitan expandir mis habilidades y conocimientos. Aspiro a ser parte de proyectos innovadores que impacten positivamente en la comunidad y a seguir evolucionando en el ámbito de la tecnología.
 
-Ofrezco servicios de desarrollo web Full Stack, con especial énfasis en la creación y optimización de aplicaciones utilizando tecnologías clave. Mi experiencia incluye liderar proyectos, resolver eficientemente problemas y contribuir positivamente a equipos de desarrollo.
+## ¿Qué tecnologías uso? 
+
+Como Full Stack Developer, utilizo una variedad de tecnologías para ofrecer soluciones completas. Algunas de las principales incluyen:
+
+JavaScript
+React
+Node.js
+SQL
+HTML
+CSS
+Entre otras tecnologías relevantes para el desarrollo web.
+Estoy constantemente explorando nuevas herramientas y tecnologías para estar al tanto de las tendencias y mejorar mi conjunto de habilidades.
 
 ### Mi objetivo laboral 🎯
 
