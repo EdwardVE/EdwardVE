@@ -2,8 +2,6 @@
 
 **También conocido como Edward VE en GitHub**
 
----
-
 ### ¿Quién soy? 🚀
 
 Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estudiante de **Ingeniería Mecatrónica** en la **Universidad Nacional de Colombia**.
