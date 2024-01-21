@@ -1,3 +1,24 @@
+## About Me
+
+### ¿Quién soy? 🚀
+
+Soy Edward Vasallo, un Full Stack Developer y estudiante de ingeniería mecatrónica en la Universidad Nacional de Colombia.
+
+### ¿Cuál es tu profesión?💻
+
+Actualmente, estoy enfocado como desarrollador Full Stack, destacando en tecnologías como JavaScript, React, Node.js, y SQL.
+
+### ¿Cuáles son mis servicios? 🌐
+
+Ofrezco servicios de desarrollo web Full Stack, con especial énfasis en la creación y optimización de aplicaciones utilizando tecnologías clave. Mi experiencia incluye liderar proyectos, resolver eficientemente problemas y contribuir positivamente a equipos de desarrollo.
+
+### Mi objetivo laboral 🎯
+
+Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferiblemente en una startup con opciones de trabajo remoto y beneficios laborales atractivos. Estoy comprometido a aplicar mis habilidades en JavaScript, React, Node.js, y SQL para impactar positivamente en el mundo del desarrollo de software. Además, busco a futuro integrar mi formación en ingeniería mecatrónica con la programación, centrándome en el desarrollo de procesos automatizados para sectores industriales. 🌱
+
+- Mail: edwardvasallo@gmail.com
+- GitHub: [https://github.com/EdwardVE](https://github.com/EdwardVE)
+- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
