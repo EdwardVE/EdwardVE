@@ -8,7 +8,7 @@ Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estud
 
 ## ¿Qué hago? 👨‍💻
 
-Actualmente me dedico a desarrollar proyectos que impulsen mi formación continua como programador. Me fascina materializar mis ideas a través de código. 
+Actualmente me dedico a desarrollar proyectos que impulsen mi formación continua como programador.**Me fascina materializar mis ideas a través de código.**
 
 ## ¿A dónde me dirijo? 🌐
 
