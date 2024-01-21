@@ -8,7 +8,7 @@ Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estud
 
 ## ¿Qué hago? 👨‍💻
 
-Actualmente me dedico a dearrollar proectos que me permitan acvanzar en  mi formacion continua como programador. Me fascina la posibilidad de materializar mis ideas a traves de codigo
+Actualmente me dedico a desarrollar proyectos que impulsen mi formación continua como programador. Me fascina materializar mis ideas a través de código. 
 
 ## ¿A dónde me dirijo? 🌐
 
@@ -23,9 +23,10 @@ React
 Node.js
 SQL
 HTML
-CSS
+* CSS
+
 Entre otras tecnologías relevantes para el desarrollo web.
-Estoy constantemente explorando nuevas herramientas y tecnologías para estar al tanto de las tendencias y mejorar mi conjunto de habilidades.
+Estoy constantemente explorando nuevas herramientas y tecnologías para mejorar mi conjunto de habilidades.
 
 ## Mi objetivo laboral 🎯
 
