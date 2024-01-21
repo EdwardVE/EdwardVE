@@ -1,8 +1,13 @@
-## About Me
+# Hola! Mi nombre es Edward Vasallo
+
+**También conocido como Edward VE en GitHub**
+
+---
 
 ### ¿Quién soy? 🚀
 
-Soy Edward Vasallo, un Full Stack Developer y estudiante de ingeniería mecatrónica en la Universidad Nacional de Colombia.
+Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estudiante de **Ingeniería Mecatrónica** en la **Universidad Nacional de Colombia**.
+
 
 ### ¿Cuál es tu profesión?💻
 
