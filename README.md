@@ -10,7 +10,7 @@ Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estud
 
 Actualmente me dedico a desarrollar proyectos que impulsen mi formación continua como programador. **Me fascina materializar mis ideas a través de código.**
 
-## ¿A dónde me dirijo? 🌐
+## ¿A dónde me dirijo? 🚀
 
 Mi camino profesional se orienta hacia el crecimiento continuo como desarrollador, buscando oportunidades desafiantes que me permitan expandir mis habilidades y conocimientos. Aspiro a ser parte de proyectos innovadores que impacten positivamente en la comunidad y a seguir evolucionando en el ámbito de la tecnología.
 
@@ -18,12 +18,12 @@ Mi camino profesional se orienta hacia el crecimiento continuo como desarrollado
 
 Como Full Stack Developer, utilizo una variedad de tecnologías para ofrecer soluciones completas. Algunas de las principales incluyen:
 
-* JavaScript
-* React
-* Node.js
-* SQL
-* HTML
-* CSS
+* **JavaScript**
+* **React**
+* **Node.js**
+* **SQL**
+* **HTML**
+* **CSS**
 
 Entre otras tecnologías relevantes para el desarrollo web.
 Estoy constantemente explorando nuevas herramientas y tecnologías para mejorar mi conjunto de habilidades.
@@ -35,5 +35,5 @@ Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferibl
 ### No dudes en contactarme!
 
 - Mail: edwardvasallo@gmail.com
-- LinkedIn: https://www.linkedin.com/in/edward-vasallo-83a7a6159/
-- Porfolio: https://edward-ve.vercel.app/
+- LinkedIn: [https://www.linkedin.com/in/edward-vasallo-83a7a6159/](https://www.linkedin.com/in/edward-vasallo-83a7a6159/)
+- Porfolio: [https://edward-ve.vercel.app/](https://edward-ve.vercel.app/)
