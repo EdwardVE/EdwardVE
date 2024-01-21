@@ -18,11 +18,11 @@ Mi camino profesional se orienta hacia el crecimiento continuo como desarrollado
 
 Como Full Stack Developer, utilizo una variedad de tecnologías para ofrecer soluciones completas. Algunas de las principales incluyen:
 
-JavaScript
-React
-Node.js
-SQL
-HTML
+* JavaScript
+* React
+* Node.js
+* SQL
+* HTML
 * CSS
 
 Entre otras tecnologías relevantes para el desarrollo web.
@@ -30,9 +30,9 @@ Estoy constantemente explorando nuevas herramientas y tecnologías para mejorar 
 
 ## Mi objetivo laboral 🎯
 
-Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferiblemente en una startup con opciones de trabajo remoto y beneficios laborales atractivos. Estoy comprometido a aplicar mis habilidades en JavaScript, React, Node.js, y SQL para impactar positivamente en el mundo del desarrollo de software. Además, busco a futuro integrar mi formación en ingeniería mecatrónica con la programación, centrándome en el desarrollo de procesos automatizados para sectores industriales. 🌱
+Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferiblemente en una startup con opciones de trabajo remoto y beneficios laborales atractivos. Estoy comprometido a aplicar mis habilidades en JavaScript, React, Node.js, y SQL para impactar positivamente en el mundo del desarrollo de software. Además, busco a futuro integrar mi formación en ingeniería mecatrónica con la programación, centrándome en el desarrollo de procesos automatizados para sectores industriales. ⚙️
 
-###No dudes en contactarme!
+### No dudes en contactarme!
 
 - Mail: edwardvasallo@gmail.com
 - GitHub: [https://github.com/EdwardVE](https://github.com/EdwardVE)
