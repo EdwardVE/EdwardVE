@@ -6,15 +6,15 @@
 
 Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estudiante de **Ingeniería Mecatrónica** en la **Universidad Nacional de Colombia**.
 
-## ¿Qué hago? 
+## ¿Qué hago? 👨‍💻
 
 Actualmente me dedico a dearrollar proectos que me permitan acvanzar en  mi formacion continua como programador. Me fascina la posibilidad de materializar mis ideas a traves de codigo
 
-## ¿A dónde me dirijo? 
+## ¿A dónde me dirijo? 🌐
 
 Mi camino profesional se orienta hacia el crecimiento continuo como desarrollador, buscando oportunidades desafiantes que me permitan expandir mis habilidades y conocimientos. Aspiro a ser parte de proyectos innovadores que impacten positivamente en la comunidad y a seguir evolucionando en el ámbito de la tecnología.
 
-## ¿Qué tecnologías uso? 
+## ¿Qué tecnologías uso? 🖥️
 
 Como Full Stack Developer, utilizo una variedad de tecnologías para ofrecer soluciones completas. Algunas de las principales incluyen:
 
@@ -27,9 +27,11 @@ CSS
 Entre otras tecnologías relevantes para el desarrollo web.
 Estoy constantemente explorando nuevas herramientas y tecnologías para estar al tanto de las tendencias y mejorar mi conjunto de habilidades.
 
-### Mi objetivo laboral 🎯
+## Mi objetivo laboral 🎯
 
 Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferiblemente en una startup con opciones de trabajo remoto y beneficios laborales atractivos. Estoy comprometido a aplicar mis habilidades en JavaScript, React, Node.js, y SQL para impactar positivamente en el mundo del desarrollo de software. Además, busco a futuro integrar mi formación en ingeniería mecatrónica con la programación, centrándome en el desarrollo de procesos automatizados para sectores industriales. 🌱
+
+###No dudes en contactarme!
 
 - Mail: edwardvasallo@gmail.com
 - GitHub: [https://github.com/EdwardVE](https://github.com/EdwardVE)
