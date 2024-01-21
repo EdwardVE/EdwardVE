@@ -35,7 +35,7 @@ Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferibl
 ### No dudes en contactarme!
 
 - Mail: edwardvasallo@gmail.com
-- GitHub: [https://github.com/EdwardVE](https://github.com/EdwardVE)
+- LinkedIn: https://www.linkedin.com/in/edward-vasallo-83a7a6159/
 - Porfolio: https://edward-ve.vercel.app/
 # Getting Started with Create React App
 
