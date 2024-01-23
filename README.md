@@ -1,4 +1,4 @@
-# Hola! Mi nombre es Edward Vasallo
+# Hola!  Mi nombre es Edward Vasallo 👋
 
 **También conocido como Edward VE en GitHub**
 
@@ -37,12 +37,11 @@ Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferibl
 - Mail: edwardvasallo@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/edward-vasallo-83a7a6159/](https://www.linkedin.com/in/edward-vasallo-83a7a6159/)
 - Porfolio: [https://edward-ve.vercel.app/](https://edward-ve.vercel.app/)
-<h1 align="center">Hi 👋, I'm Edward V</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/edward vasalloedward vasallo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edward vasalloedward vasallo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edward vasalloedward vasallo" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/edward-vasallo-83a7a6159/)" alt="edward vasalloedward vasallo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
