@@ -9,6 +9,7 @@ const projects = [
     technologies: ['React', 'Redux', 'Node.js', 'Express', 'PostgreSQL', 'Sequelize', 'Material UI'],
     repository: 'https://github.com/Luis901810/eCommerce_frontend',
     demo: 'https://storecalzado.vercel.app/',
+    image: 'https://github.com/EdwardVE/EdwardVE/blob/master/src/img/DigiShoes.JPG',
   },
   {
     title: 'World Explorer',
