@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Hola 👋!  Mi nombre es Edward Vasallo 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**También conocido como Edward VE en GitHub**
 
-## Available Scripts
+## ¿Quién soy? 🚀
 
-In the project directory, you can run:
+Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estudiante de **Ingeniería Mecatrónica** en la **Universidad Nacional de Colombia**.
 
-### `npm start`
+## ¿Qué hago? 👨‍💻
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Actualmente me dedico a desarrollar proyectos que impulsen mi formación continua como programador. **Me fascina materializar mis ideas a través de código.**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ¿A dónde me dirijo? 🚀
 
-### `npm test`
+Mi camino profesional se orienta hacia el crecimiento continuo como desarrollador, buscando oportunidades desafiantes que me permitan expandir mis habilidades y conocimientos. Aspiro a ser parte de proyectos innovadores que impacten positivamente en la comunidad y a seguir evolucionando en el ámbito de la tecnología.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ¿Qué tecnologías uso? 🖥️
 
-### `npm run build`
+Como Full Stack Developer, utilizo una variedad de tecnologías para ofrecer soluciones completas. Algunas de las principales incluyen:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **JavaScript**
+* **React**
+* **Node.js**
+* **SQL**
+* **HTML**
+* **CSS**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Entre otras tecnologías relevantes para el desarrollo web.
+Estoy constantemente explorando nuevas herramientas y tecnologías para mejorar mi conjunto de habilidades.
 
-### `npm run eject`
+## Mi objetivo laboral 🎯
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferiblemente en una startup con opciones de trabajo remoto y beneficios laborales atractivos. Estoy comprometido a aplicar mis habilidades en JavaScript, React, Node.js, y SQL para impactar positivamente en el mundo del desarrollo de software. Además, busco a futuro integrar mi formación en ingeniería mecatrónica con la programación, centrándome en el desarrollo de procesos automatizados para sectores industriales. ⚙️
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### No dudes en contactarme!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Mail: edwardvasallo@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/edward-vasallo-83a7a6159/](https://www.linkedin.com/in/edward-vasallo-83a7a6159/)
+- Porfolio: [https://edward-ve.vercel.app/](https://edward-ve.vercel.app/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="left">  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  
+</p>
