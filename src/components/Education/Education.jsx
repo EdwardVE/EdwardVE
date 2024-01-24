@@ -1,9 +1,8 @@
-import EdwardVE from "../EdwardVE/EdwardVE";
 
 const Home = ()=>{
     return (
         <div>
-            <EdwardVE/>
+            <h1>education</h1>
         </div>
     )
 }
