@@ -31,7 +31,7 @@ Estoy constantemente explorando nuevas herramientas y tecnologías para mejorar 
 
 ## Mi objetivo laboral 🎯
 
-Mi objetivo laboral actual es conseguir un trabajo como desarrollador, preferiblemente en una startup con opciones de trabajo remoto y beneficios laborales atractivos. Estoy comprometido a aplicar mis habilidades en JavaScript, React, Node.js, y SQL para impactar positivamente en el mundo del desarrollo de software. Además, busco a futuro integrar mi formación en ingeniería mecatrónica con la programación, centrándome en el desarrollo de procesos automatizados para sectores industriales. ⚙️
+Mi objetivo laboral actual es pertenecer a una compañía en la que pueda desempeñarme como desarrollador, preferiblemente en una startup con opciones de trabajo remoto y beneficios laborales atractivos. Estoy comprometido a aplicar mis habilidades en JavaScript, React, Node.js, y SQL para impactar positivamente en el mundo del desarrollo de software. Además, busco a futuro integrar mi formación en ingeniería mecatrónica con la programación, centrándome en el desarrollo de procesos automatizados para sectores industriales. ⚙️
 
 ### No dudes en contactarme!
 
