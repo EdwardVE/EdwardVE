@@ -86,7 +86,13 @@ const projects = [
 ];
 
   return (
-<Container>
+<Container
+      style={{
+        margin: 'auto',
+        marginTop: '32px',
+      }}
+      elevation={3}
+      >
       <Typography variant="h3" gutterBottom>
         Proyectos
       </Typography>

@@ -1,38 +1,41 @@
 import React from 'react';
-import { Container, Typography, Grid, Link, TextField, Button } from '@mui/material';
+import {Typography, Link, Paper, IconButton } from '@mui/material';
+import DownloadIcon from '@mui/icons-material/Download';
+export const handleDownloadCV = () => {
+  // URL de tu CV
+  const cvUrl = "https://drive.google.com/file/d/1JMk2yUfmLfj51dncn0Es2KW0UZZ0dGu2/view"; 
 
+  // window.open(cvUrl, '_blank'); //! Para abrir el pdf
+  
+  fetch(cvUrl)
+    .then(response => response.blob())
+    .then(blob => {
+      const url = window.URL.createObjectURL(blob);
+      const downloadLink = document.createElement('a');
+      downloadLink.href = url;
+      downloadLink.download = 'Edward Vasallo CV.pdf'; // Reemplaza con el nombre deseado para el archivo
+      document.body.appendChild(downloadLink);
+      downloadLink.click();
+      document.body.removeChild(downloadLink);
+      window.URL.revokeObjectURL(url);
+    });
+}
 const Contact = () => {
+
   return (
-    <Container>
-      <Typography variant="h3" gutterBottom>
-        Contacto
-      </Typography>
+    <Paper elevation={3} style={{ padding: '20px', maxWidth: 'auto', margin: 'auto' }}>
+    <Typography variant="subtitle1">EDWARD VASALLO</Typography>
+    <Typography variant="subtitle1">Full Stack Web Developer</Typography>
 
-        <Grid item xs={12} md={6}>
-          <Typography variant="h6">Correo Electrónico:</Typography>
-          <Link href="mailto:edwardvasallo@gmail.com">edwardvasallo@gmail.com</Link>
-        </Grid>
-
-      {/* Formulario de contacto */}
-      <form>
-        <Grid container spacing={2}>
-          <Grid item xs={12} md={6}>
-            <TextField fullWidth label="Nombre" variant="outlined" margin="normal" />
-          </Grid>
-          <Grid item xs={12} md={6}>
-            <TextField fullWidth label="Correo Electrónico" variant="outlined" margin="normal" />
-          </Grid>
-          <Grid item xs={12}>
-            <TextField fullWidth label="Mensaje" multiline rows={4} variant="outlined" margin="normal" />
-          </Grid>
-          <Grid item xs={12}>
-            <Button variant="contained" color="primary" type="submit">
-              Enviar Mensaje
-            </Button>
-          </Grid>
-        </Grid>
-      </form>
-    </Container>
+    <Typography variant="h4">Contacto </Typography>
+    <Typography>Si quieres ponerte en contacto conmigo escríbeme: <Link href="mailto:edwardvasallo@gmail.com">edwardvasallo@gmail.com</Link></Typography>
+    <Typography>Dercarga mi CV
+      <IconButton onClick={handleDownloadCV} color="primary" aria-label="Descargar CV">
+        <DownloadIcon />
+      </IconButton>
+    </Typography>
+    
+  </Paper>
   );
 };
 

@@ -1,6 +1,8 @@
 import { Typography, Link, Paper, IconButton } from '@mui/material';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
+import { handleDownloadCV } from '../Contact/Contact';
+import DownloadIcon from '@mui/icons-material/Download';
 
 const EdwardVE = () => {
   return (
@@ -10,9 +12,11 @@ const EdwardVE = () => {
 
       <Typography variant="h3">Contacto</Typography>
       <Typography>Si quieres ponerte en contacto conmigo escríbeme: <Link href="mailto:edwardvasallo@gmail.com">edwardvasallo@gmail.com</Link></Typography>
-      <Typography>Dercarga mi CV:<Link href="https://drive.google.com/file/d/1JMk2yUfmLfj51dncn0Es2KW0UZZ0dGu2/view" target="_blank" rel="noreferrer">
-            Ver mi CV
-          </Link></Typography>
+      <Typography>Dercarga mi CV
+      <IconButton onClick={handleDownloadCV} color="primary" aria-label="Descargar CV">
+        <DownloadIcon />
+      </IconButton>
+    </Typography>
       
       <Typography variant="h3">Redes</Typography>
       <IconButton href="https://www.linkedin.com/in/edward-vasallo-83a7a6159/" target="_blank" rel="noreferrer">
