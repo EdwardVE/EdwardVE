@@ -33,9 +33,9 @@ const NavigationBar = ({
         <Button color="inherit" onClick={() => scrollToComponent(portfolioRef)}>
           <Typography variant="subtitle1">Portfolio</Typography>
         </Button>
-        <Button color="inherit" onClick={() => scrollToComponent(educationRef)}>
+        {/* <Button color="inherit" onClick={() => scrollToComponent(educationRef)}>
           <Typography variant="subtitle1">Educacion</Typography>
-        </Button>
+        </Button> */}
         <Button color="inherit" onClick={() => scrollToComponent(skillsRef)}>
           <Typography variant="subtitle1">Skills</Typography>
         </Button>

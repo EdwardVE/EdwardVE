@@ -2,7 +2,6 @@ import React, { useRef } from "react";
 import AboutMe from "../AboutMe/AboutMe";
 import EdwardVE from "../EdwardVE/EdwardVE";
 import Portfolio from "../Portfolio/Portfolio";
-import Education from "../Education/Education";
 import Skills from "../Skills/Skills";
 import Contact from "../Contact/Contact";
 import NavigationBar from "../NavigationBar/NavigationBar";
@@ -37,9 +36,9 @@ const Home = () => {
           <div ref={portfolioRef}>
             <Portfolio />
           </div>
-          <div ref={educationRef}>
+          {/* <div ref={educationRef}>
             <Education />
-          </div>
+          </div> */}
           <div ref={skillsRef}>
             <Skills />
           </div>
