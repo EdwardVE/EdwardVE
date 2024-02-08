@@ -1,8 +1,12 @@
+import { Container } from "@mui/material";
 
 
 const Skills = () => {
     return (
-      <div style={{ textAlign: 'center', marginTop: '20px' }}>
+      <Container style={{           
+        width: '100vw',
+        height: '100vh', 
+        }}>
         <h1>Skills</h1>
         
         <h3>Lenguajes y Frameworks:</h3>
@@ -132,7 +136,7 @@ const Skills = () => {
             />
           </a>
         </p>
-      </div>
+      </Container>
     );
   };
   

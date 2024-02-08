@@ -9,11 +9,8 @@ const EdwardVE = () => {
     <Container>
       <Box
         sx={{
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          textAlign: 'center',
-          padding: '20px',
+          width: '100vw',
+          height: '100vh',
         }}
       >
         <Typography variant="h2">EDWARD VASALLO</Typography>
@@ -34,9 +31,7 @@ const EdwardVE = () => {
         <Typography variant="h3">Redes</Typography>
         <Box
           sx={{
-            display: 'flex',
-            justifyContent: 'center',
-            gap: '8px', // Ajusta el espacio entre los botones según sea necesario
+
           }}
         >
           <IconButton href="https://www.linkedin.com/in/edward-vasallo-83a7a6159/" target="_blank" rel="noreferrer">

@@ -6,11 +6,8 @@ const AboutMe = () => {
     <Container>
       <Box
         sx={{
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          textAlign: 'center',
-          padding: '20px', // Ajusta según sea necesario
+          width: '100vw',
+          height: '100vh',
         }}
       >
         <Typography variant="h4">Sobre mí</Typography>

@@ -23,7 +23,10 @@ export const handleDownloadCV = () => {
 const Contact = () => {
 
   return (
-      <Container style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '20px' }} >
+      <Container style={{           
+        width: '100vw',
+        height: '100vh',
+      }} >
         <Typography variant="h4" align="center">Contacto</Typography>
         <Typography align="center">Si quieres ponerte en contacto conmigo, escríbeme: <Link href="mailto:edwardvasallo@gmail.com">edwardvasallo@gmail.com</Link></Typography>
         <Typography align="center">
