@@ -27,9 +27,9 @@ const Contact = () => {
         width: '100vw',
         height: '100vh',
       }} >
-        <Typography variant="h4" align="center">Contacto</Typography>
-        <Typography align="center">Si quieres ponerte en contacto conmigo, escríbeme: <Link href="mailto:edwardvasallo@gmail.com">edwardvasallo@gmail.com</Link></Typography>
-        <Typography align="center">
+        <Typography variant="h4" >Contacto</Typography>
+        <Typography >Si quieres ponerte en contacto conmigo, escríbeme: <Link href="mailto:edwardvasallo@gmail.com">edwardvasallo@gmail.com</Link></Typography>
+        <Typography >
           Descarga mi CV
           <IconButton onClick={handleDownloadCV} color="red" aria-label="Descargar CV">
             <DownloadIcon />

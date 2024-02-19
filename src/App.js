@@ -11,7 +11,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
       </Routes>
-      <footer style={{ marginTop: 'auto', padding: '20px', textAlign: 'center'  }}>
+      <footer style={{ position: 'fixed', bottom: 0, width: '100%', padding: '20px', textAlign: 'center', backgroundColor: '#f0f0f0' }}>
         <IconButton href="https://www.linkedin.com/in/edward-vasallo-83a7a6159/" target="_blank" rel="noreferrer">
           <LinkedInIcon />
         </IconButton>
