@@ -10,7 +10,7 @@ const AboutMe = () => {
           height: '100vh',
         }}
       >
-        <Typography variant="h4">Sobre mí</Typography>
+        <Typography variant="h4">Sobre mí</Typography>//!:D
         <Typography>
           Bienvenido a mi espacio en línea como desarrollador. Aquí encontrarás información detallada sobre mí, mi experiencia en el mundo del desarrollo de software y los proyectos en los que he trabajado.
         </Typography>
