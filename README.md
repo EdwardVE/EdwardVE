@@ -20,10 +20,13 @@ Como Full Stack Developer, utilizo una variedad de tecnologías para ofrecer sol
 
 * **JavaScript**
 * **React**
+* **Angular**
 * **Node.js**
 * **SQL**
+* **MongoDB**
 * **HTML**
 * **CSS**
+* **Docker**
 
 
 Entre otras tecnologías relevantes para el desarrollo web.
