@@ -18,15 +18,23 @@ Mi camino profesional se orienta hacia el crecimiento continuo como desarrollado
 
 Como Full Stack Developer, utilizo una variedad de tecnologías para ofrecer soluciones completas. Algunas de las principales incluyen:
 
-* **JavaScript**
-* **React**
-* **Angular**
-* **Node.js**
-* **SQL**
-* **MongoDB**
-* **HTML**
-* **CSS**
-* **Docker**
+💻 **Lenguajes de programación:**  
+JavaScript | TypeScript | Python | Go  
+
+🌐 **Front-end:**  
+Angular | React.js | Redux | CSS3 | HTML | Angular Material | Tailwind CSS | Material UI  
+
+🛠 **Back-end:**  
+Node.js | Express.js  
+
+🗄 **Bases de datos:**  
+MongoDB | Mongoose | PostgreSQL | Sequelize  
+
+🚀 **DevOps & Blockchain:**  
+Docker | Blockchain (Algorand)  
+
+📌 **Metodologías y herramientas de trabajo:**  
+SCRUM | Git | GitHub | Slack | Discord | Trello | Figma  
 
 
 Entre otras tecnologías relevantes para el desarrollo web.
