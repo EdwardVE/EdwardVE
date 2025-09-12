@@ -1,24 +1,24 @@
-# Hola 👋!  Mi nombre es Edward Vasallo 
+# Hi 👋! My name is Edward Vasallo  
 
-**También conocido como Edward VE en GitHub**
+**Also known as Edward VE on GitHub**
 
-## ¿Quién soy? 🚀
+## Who am I? 🚀  
 
-Soy un **Full Stack Developer** orientado al desarrollo en **Front-end** y estudiante de **Ingeniería Mecatrónica** en la **Universidad Nacional de Colombia**.
+I’m a **Full Stack Developer** with a strong focus on **Front-end development** and a **Mechatronics Engineering student** at the **National University of Colombia**.  
 
-## ¿Qué hago? 👨‍💻
+## What do I do? 👨‍💻  
 
-Actualmente me dedico a desarrollar proyectos que impulsen mi formación continua como programador. **Me fascina materializar mis ideas a través de código.**
+I’m currently working on projects that strengthen my continuous growth as a developer. **I love bringing my ideas to life through code.**  
 
-## ¿A dónde me dirijo? 🚀
+## Where am I heading? 🚀  
 
-Mi camino profesional se orienta hacia el crecimiento continuo como desarrollador, buscando oportunidades desafiantes que me permitan expandir mis habilidades y conocimientos. Aspiro a ser parte de proyectos innovadores que impacten positivamente en la comunidad y a seguir evolucionando en el ámbito de la tecnología.
+My career path is oriented toward continuous growth as a developer, seeking challenging opportunities that allow me to expand my skills and knowledge. I aspire to be part of innovative projects that positively impact the community while continuing to evolve in the tech industry.  
 
-## ¿Qué tecnologías uso? 🖥️
+## What technologies do I use? 🖥️  
 
-Como Full Stack Developer, utilizo una variedad de tecnologías para ofrecer soluciones completas. Algunas de las principales incluyen:
+As a Full Stack Developer, I work with a variety of technologies to deliver complete solutions. Some of the main ones include:  
 
-💻 **Lenguajes de programación:**  
+💻 **Programming languages:**  
 JavaScript | TypeScript | Python | Go  
 
 🌐 **Front-end:**  
@@ -27,28 +27,26 @@ Angular | React.js | Redux | CSS3 | HTML | Angular Material | Tailwind CSS | Mat
 🛠 **Back-end:**  
 Node.js | Express.js  
 
-🗄 **Bases de datos:**  
+🗄 **Databases:**  
 MongoDB | Mongoose | PostgreSQL | Sequelize  
 
 🚀 **DevOps & Blockchain:**  
 Docker | Blockchain (Algorand)  
 
-📌 **Metodologías y herramientas de trabajo:**  
+📌 **Work methodologies & tools:**  
 SCRUM | Git | GitHub | Slack | Discord | Trello | Figma  
 
+Along with other relevant web development technologies.  
+I’m constantly exploring new tools and technologies to improve my skill set.  
 
-Entre otras tecnologías relevantes para el desarrollo web.
-Estoy constantemente explorando nuevas herramientas y tecnologías para mejorar mi conjunto de habilidades.
+## My career goal 🎯  
 
-## Mi objetivo laboral 🎯
+My current career goal is to join a company where I can work as a developer, preferably in a startup with remote work options and attractive benefits. I’m committed to applying my skills in JavaScript, React, Node.js, and SQL to make a positive impact in the software development world. Additionally, I aim to integrate my mechatronics engineering background with programming in the future, focusing on the development of automated processes for industrial sectors. ⚙️  
 
-Mi objetivo laboral actual es pertenecer a una compañía en la que pueda desempeñarme como desarrollador, preferiblemente en una startup con opciones de trabajo remoto y beneficios laborales atractivos. Estoy comprometido a aplicar mis habilidades en JavaScript, React, Node.js, y SQL para impactar positivamente en el mundo del desarrollo de software. Además, busco a futuro integrar mi formación en ingeniería mecatrónica con la programación, centrándome en el desarrollo de procesos automatizados para sectores industriales. ⚙️
-
-### No dudes en contactarme!
-
-- Mail: edwardvasallo@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/edward-vasallo-83a7a6159/](https://www.linkedin.com/in/edward-vasallo-83a7a6159/)
-- Porfolio: [https://edward-ve.vercel.app/](https://edward-ve.vercel.app/)
+### Feel free to contact me!  
+- Email: edwardvasallo@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/edward-vasallo-83a7a6159/](https://www.linkedin.com/in/edward-vasallo-83a7a6159/)  
+- Portfolio: [https://edward-ve.vercel.app/](https://edward-ve.vercel.app/)  
 
 <p align="left">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -60,5 +58,4 @@ Mi objetivo laboral actual es pertenecer a una compañía en la que pueda desemp
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  
-</p>
+</p>  
