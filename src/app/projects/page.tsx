@@ -47,7 +47,16 @@ export default function Projects() {
           >
             <h2 className="text-2xl font-semibold mb-2">{proj.name}</h2>
             <p className="text-gray-300 mb-2">{proj.desc}</p>
-            <p className="text-sm text-purple-400 mb-4">{proj.stack}</p>
+            <ul className="flex flex-wrap gap-2 mb-4">
+              {proj.stack.split(", ").map((skill, j) => (
+              <li
+                key={j}
+                className="px-3 py-1 bg-purple-600 rounded-lg text-sm hover:bg-purple-700"
+              >
+                {skill}
+              </li>
+              ))}
+            </ul>
             <div className="flex gap-4">
               <Link
                 href={proj.repo}

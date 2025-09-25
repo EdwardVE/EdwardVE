@@ -36,7 +36,7 @@ export default function Home() {
           transition={{ delay: 1 }}
         >
           <a
-            href="/Edward_Vasallo_CV.pdf"
+            href="/docs/Edward_Vasallo_CV.pdf"
             target="_blank"
             className="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg"
           >
