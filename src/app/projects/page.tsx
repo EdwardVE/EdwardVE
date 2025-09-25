@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Link from "next/link";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 export default function Projects() {
@@ -20,6 +19,20 @@ export default function Projects() {
       repo: "https://github.com/Luis901810/eCommerce_frontend",
       demo: "https://storecalzado.vercel.app/",
     },
+      {
+    name: "Proyecto de Votación en Algorand",
+    desc: "Sistema de votación basado en la blockchain de Algorand con resultados en tiempo real.",
+    stack: "React, Recharts, Algorand SDK, Node.js",
+    repo: "https://github.com/EdwardVE/lottery-with-blockchain",
+    demo: "https://blockchain-voting-system-eight.vercel.app/",
+  },
+  {
+    name: "WordLink Match Learn",
+    desc: "Juego interactivo para aprender inglés uniendo palabras con sus traducciones o sinónimos.",
+    stack: "React, CSS/Styled-Components, React Hooks",
+    repo: "https://github.com/EdwardVE/WordLink-Match-Learn",
+    demo: "https://word-link-match-learn.vercel.app/",
+  },
     {
       name: "World Explorer",
       desc: "App de países con filtros, actividades y barra de búsqueda.",
