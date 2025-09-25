@@ -1,40 +1,54 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 export default function GlobalCursorLight() {
-  const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
+  const mousePos = useRef({ x: 0, y: 0 });
   const [lightPos, setLightPos] = useState({ x: 0, y: 0 });
+
+  const lightRef = useRef<HTMLDivElement>(null);
+  const [offset, setOffset] = useState(120); // valor inicial por defecto
+
+  useEffect(() => {
+    // Calcular la mitad del ancho del círculo dinámicamente
+    if (lightRef.current) {
+      const rect = lightRef.current.getBoundingClientRect();
+      setOffset(rect.width / 2);
+    }
+  }, []);
 
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
-      setMousePos({ x: e.clientX, y: e.clientY });
+      mousePos.current = { x: e.clientX, y: e.clientY };
     };
     window.addEventListener("mousemove", handleMouseMove);
+    return () => window.removeEventListener("mousemove", handleMouseMove);
+  }, []);
+
+  useEffect(() => {
+    let animationFrameId: number;
+    const lerpFactor = 0.1;
 
     const frame = () => {
-      // Lerp: suaviza el movimiento de la luz
-      setLightPos((prev) => ({
-        x: prev.x + (mousePos.x - prev.x) * 0.15,
-        y: prev.y + (mousePos.y - prev.y) * 0.15,
-      }));
-      requestAnimationFrame(frame);
+      setLightPos((prev) => {
+        const newX = prev.x + (mousePos.current.x - prev.x) * lerpFactor;
+        const newY = prev.y + (mousePos.current.y - prev.y) * lerpFactor;
+        return { x: newX, y: newY };
+      });
+      animationFrameId = requestAnimationFrame(frame);
     };
-    frame();
 
-    return () => {
-      window.removeEventListener("mousemove", handleMouseMove);
-    };
-  }, [mousePos]);
+    frame();
+    return () => cancelAnimationFrame(animationFrameId);
+  }, []);
 
   return (
-    <>
-      <div
-        className="pointer-events-none fixed w-60 h-60 rounded-full bg-purple-400 opacity-30 blur-3xl mix-blend-color-dodge transition-transform duration-100"
-        style={{
-          transform: `translate(${lightPos.x - 120}px, ${lightPos.y - 120}px)`,
-        }}
-      />
-    </>
+    <div
+      ref={lightRef}
+      className="pointer-events-none fixed w-60 h-60 rounded-full bg-purple-400 opacity-30 blur-3xl mix-blend-color-dodge transition-transform duration-100"
+      style={{
+        transform: `translate(${lightPos.x - offset}px, ${lightPos.y - offset}px)`,
+      }}
+    />
   );
 }
