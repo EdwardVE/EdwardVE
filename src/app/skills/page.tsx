@@ -27,7 +27,7 @@ export default function Skills() {
   return (
     <main className="min-h-screen bg-gray-950 text-white p-10">
       <motion.h1
-        className="text-4xl font-bold mb-8 text-center md:text-left z-10 relative"
+        className="text-4xl font-bold mb-8 text-center md:text-left relative"
         initial={{ opacity: 0, y: 40 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
@@ -36,7 +36,7 @@ export default function Skills() {
       </motion.h1>
 
       <motion.div
-        className="grid gap-8 md:grid-cols-2 z-10 relative"
+        className="grid gap-8 md:grid-cols-2 relative"
         initial="hidden"
         animate="show"
         variants={{
