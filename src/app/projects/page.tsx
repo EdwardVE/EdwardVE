@@ -12,7 +12,7 @@ export default function Projects() {
       stack: "React, Tailwind, Node.js, Express, MongoDB",
       repo: "https://github.com/No-Country/c17-09-m-node-react",
       demo: "https://mascotaland-flax.vercel.app/inicio",
-      img: "/images/Default.JPG", // ⚡ usar imagen default
+      img: "/images/Mascotaland.png", // ⚡ usar imagen default
     },
     {
       name: "Proyecto de Votación en Algorand",
@@ -20,7 +20,7 @@ export default function Projects() {
       stack: "React, Recharts, Algorand SDK, Node.js",
       repo: "https://github.com/EdwardVE/lottery-with-blockchain",
       demo: "https://blockchain-voting-system-eight.vercel.app/",
-      img: "/images/Default.JPG", // ⚡ usar imagen default
+      img: "/images/Example.png", // ⚡ usar imagen default
     },
     {
       name: "WordLink Match Learn",
@@ -28,7 +28,7 @@ export default function Projects() {
       stack: "React, CSS/Styled-Components, React Hooks",
       repo: "https://github.com/EdwardVE/WordLink-Match-Learn",
       demo: "https://word-link-match-learn.vercel.app/",
-      img: "/images/Default.JPG", // ⚡ usar imagen default
+      img: "/images/WordLinkMatchLearn.png", // ⚡ usar imagen default
     },
     {
       name: "DigiShoes E-commerce",
@@ -69,12 +69,14 @@ export default function Projects() {
           >
             {/* Imagen con fallback */}
             <div className="relative w-full h-48 overflow-hidden">
+              <a href={proj.demo? proj.demo : proj.repo} target="_blank">
               <Image
                 src={proj.img || "/images/Default.JPG"}
                 alt={proj.name}
                 fill
                 className="object-cover hover:scale-105 transition-transform duration-500"
               />
+              </a>
             </div>
 
             {/* Contenido */}

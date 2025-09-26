@@ -21,7 +21,7 @@ export default function Navbar() {
 
   return (
     <nav className="fixed top-0 left-0 w-full bg-gray-900/80 backdrop-blur-md shadow-lg z-50">
-      {/* <GlobalCursorLight /> */}
+      <GlobalCursorLight />
       <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo */}
         <motion.div

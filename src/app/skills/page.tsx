@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { useState } from "react";
 
 const skillsData = [
   { category: "Lenguajes", items: ["JavaScript", "TypeScript", "Python", "Go"] },
@@ -14,15 +13,6 @@ const skillsData = [
 ];
 
 export default function Skills() {
-  const skills = {
-    Lenguajes: ["JavaScript", "TypeScript", "Python", "Go"],
-    Frontend: ["React", "Next.js", "Angular", "Redux", "Tailwind", "Material UI", "HTML", "CSS"],
-    Backend: ["Node.js", "Express", "Golang(Gin)"],
-    BasesDeDatos: ["PostgreSQL", "MongoDB"],
-    DevOps_Tools: ["Docker", "Git", "GitHub", "Trello", "Figma", "Slack"],
-    Blockchain: ["Algorand SDK"],
-    Otros: ["RESTful APIs", "Agile Methodologies"],
-  };
 
   return (
     <main className="min-h-screen bg-gray-950 text-white p-10">
