@@ -6,7 +6,6 @@ import { motion } from "framer-motion";
 export default function Home() {
   return (
     <main className="min-h-screen bg-gray-950 text-white">
-
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center text-center py-32 px-6">
         <motion.h2
@@ -35,19 +34,20 @@ export default function Home() {
           animate={{ opacity: 1 }}
           transition={{ delay: 1 }}
         >
-          <a
-            href="/docs/Edward_Vasallo_CV.pdf"
-            target="_blank"
+          <motion.div
+            whileHover={{ y: -5, scale: 1.05 }}
             className="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg"
           >
-            Descargar CV
-          </a>
-          <Link
-            href="/projects"
+            <Link href="docs/Edward_Vasallo_CV.pdf" target="_blank">
+              Descargar CV
+            </Link>
+          </motion.div>
+          <motion.div
+            whileHover={{ y: -5, scale: 1.05 }}
             className="px-6 py-3 border border-purple-600 hover:bg-purple-600 rounded-lg"
           >
-            Ver Proyectos
-          </Link>
+            <Link href="/projects">Ver Proyectos</Link>
+          </motion.div>
         </motion.div>
       </section>
     </main>

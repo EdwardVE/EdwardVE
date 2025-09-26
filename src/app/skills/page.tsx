@@ -61,7 +61,7 @@ export default function Skills() {
                 <motion.li
                   key={j}
                   className="px-4 py-1 bg-purple-600 rounded-lg text-sm font-medium transition-colors duration-200 hover:bg-purple-700"
-                  whileHover={{ scale: 1.1, rotate: 2 }}
+                  whileHover={{ scale: 1.1, y: -5 }}
                   transition={{ type: "spring", stiffness: 300 }}
                 >
                   {skill}
