@@ -46,5 +46,6 @@ My current career goal is to join a company where I can work as a developer, pre
 ### Feel free to contact me!  
 - Email: edwardvasallo@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/edward-vasallo-83a7a6159/](https://www.linkedin.com/in/edward-vasallo-83a7a6159/)  
-- Portfolio: [https://edward-ve.vercel.app/](https://edward-ve.vercel.app/)  
+- Portfolio: [https://edwardvasallo.vercel.app/](https://edwardvasallo.vercel.app/)  
+
 
